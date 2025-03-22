@@ -329,7 +329,670 @@
             "verschiedene Parteien"
         ],
         "correct_answer": "Pressezensur"
+    },
+    {
+        "question_number": 31,
+        "question": "Die Zusammenarbeit von Parteien zur Bildung einer Regierung nennt man in Deutschland …",
+        "options": [
+            "Einheit",
+            "Koalition",
+            "Ministerium",
+            "Fraktion"
+        ],
+        "correct_answer": "Koalition"
+    },
+    {
+        "question_number": 32,
+        "question": "Was ist keine staatliche Gewalt in Deutschland?",
+        "options": [
+            "Gesetzgebung",
+            "Regierung",
+            "Presse",
+            "Rechtsprechung"
+        ],
+        "correct_answer": "Presse"
+    },
+    {
+        "question_number": 33,
+        "question": "Welche Aussage ist richtig? In Deutschland …",
+        "options": [
+            "sind Staat und Religionsgemeinschaften voneinander getrennt.",
+            "bilden die Religionsgemeinschaften den Staat.",
+            "ist der Staat abhängig von den Religionsgemeinschaften.",
+            "bilden Staat und Religionsgemeinschaften eine Einheit."
+        ],
+        "correct_answer": "sind Staat und Religionsgemeinschaften voneinander getrennt."
+    },
+    {
+        "question_number": 34,
+        "question": "Was ist Deutschland nicht?",
+        "options": [
+            "eine Demokratie",
+            "ein Rechtsstaat",
+            "eine Monarchie",
+            "ein Sozialstaat"
+        ],
+        "correct_answer": "eine Monarchie"
+    },
+    {
+        "question_number": 35,
+        "question": "Womit finanziert der deutsche Staat die Sozialversicherung?",
+        "options": [
+            "Kirchensteuern",
+            "Sozialabgaben",
+            "Spendengeldern",
+            "Vereinsbeiträgen"
+        ],
+        "correct_answer": "Sozialabgaben"
+    },
+    {
+        "question_number": 36,
+        "question": "Welche Maßnahme schafft in Deutschland soziale Sicherheit?",
+        "options": [
+            "die Krankenversicherung",
+            "die Autoversicherung",
+            "die Gebäudeversicherung",
+            "die Haftpflichtversicherung"
+        ],
+        "correct_answer": "die Krankenversicherung"
+    },
+    {
+        "question_number": 37,
+        "question": "Wie werden die Regierungschefs / Regierungschefinnen der meisten Bundesländer in Deutschland genannt?",
+        "options": [
+            "Erster Minister / Erste Ministerin",
+            "Premierminister / Premierministerin",
+            "Senator / Senatorin",
+            "Ministerpräsident / Ministerpräsidentin"
+        ],
+        "correct_answer": "Ministerpräsident / Ministerpräsidentin"
+    },
+    {
+        "question_number": 38,
+        "question": "Die Bundesrepublik Deutschland ist ein demokratischer und sozialer …",
+        "options": [
+            "Staatenverbund.",
+            "Bundesstaat.",
+            "Staatenbund.",
+            "Zentralstaat."
+        ],
+        "correct_answer": "Bundesstaat."
+    },
+    {
+        "question_number": 39,
+        "question": "Was hat jedes deutsche Bundesland?",
+        "options": [
+            "einen eigenen Außenminister / eine eigene Außenministerin",
+            "eine eigene Währung",
+            "eine eigene Armee",
+            "eine eigene Regierung"
+        ],
+        "correct_answer": "eine eigene Regierung"
+    },
+    {
+        "question_number": 40,
+        "question": "Mit welchen Worten beginnt die deutsche Nationalhymne?",
+        "options": [
+            "Völker, hört die Signale …",
+            "Einigkeit und Recht und Freiheit …",
+            "Freude schöner Götterfunken …",
+            "Deutschland einig Vaterland …"
+        ],
+        "correct_answer": "Einigkeit und Recht und Freiheit …"
+    },
+    {
+        "question_number": 41,
+        "question": "Warum gibt es in einer Demokratie mehr als eine Partei?",
+        "options": [
+            "weil dadurch die unterschiedlichen Meinungen der Bürger und Bürgerinnen vertreten werden",
+            "damit Bestechung in der Politik begrenzt wird",
+            "um politische Demonstrationen zu verhindern",
+            "um wirtschaftlichen Wettbewerb anzuregen"
+        ],
+        "correct_answer": "weil dadurch die unterschiedlichen Meinungen der Bürger und Bürgerinnen vertreten werden"
+    },
+    {
+        "question_number": 42,
+        "question": "Wer beschließt in Deutschland ein neues Gesetz?",
+        "options": [
+            "die Regierung",
+            "das Parlament",
+            "die Gerichte",
+            "die Polizei"
+        ],
+        "correct_answer": "das Parlament"
+    },
+    {
+        "question_number": 43,
+        "question": "Wann kann in Deutschland eine Partei verboten werden?",
+        "options": [
+            "wenn ihr Wahlkampf zu teuer ist",
+            "wenn sie gegen die Verfassung kämpft",
+            "wenn sie Kritik am Staatsoberhaupt äußert",
+            "wenn ihr Programm eine neue Richtung vorschlägt"
+        ],
+        "correct_answer": "wenn sie gegen die Verfassung kämpft"
+    },
+    {
+        "question_number": 44,
+        "question": "Wen kann man als Bürger / Bürgerin in Deutschland nicht direkt wählen?",
+        "options": [
+            "Abgeordnete des EU-Parlaments",
+            "den Bundespräsidenten / die Bundespräsidentin",
+            "Landtagsabgeordnete",
+            "Bundestagsabgeordnete"
+        ],
+        "correct_answer": "den Bundespräsidenten / die Bundespräsidentin"
+    },
+    {
+        "question_number": 45,
+        "question": "Zu welcher Versicherung gehört die Pflegeversicherung?",
+        "options": [
+            "Sozialversicherung",
+            "Unfallversicherung",
+            "Hausratversicherung",
+            "Haftpflicht- und Feuerversicherung"
+        ],
+        "correct_answer": "Sozialversicherung"
+    },
+    {
+        "question_number": 46,
+        "question": "Der deutsche Staat hat viele Aufgaben. Welche Aufgabe gehört dazu?",
+        "options": [
+            "Er baut Straßen und Schulen.",
+            "Er verkauft Lebensmittel und Kleidung.",
+            "Er versorgt alle Einwohner und Einwohnerinnen kostenlos mit Zeitungen.",
+            "Er produziert Autos und Busse."
+        ],
+        "correct_answer": "Er baut Straßen und Schulen."
+    },
+    {
+        "question_number": 47,
+        "question": "Der deutsche Staat hat viele Aufgaben. Welche Aufgabe gehört nicht dazu?",
+        "options": [
+            "Er bezahlt für alle Staatsangehörigen Urlaubsreisen.",
+            "Er zahlt Kindergeld.",
+            "Er unterstützt Museen.",
+            "Er fördert Sportler und Sportlerinnen."
+        ],
+        "correct_answer": "Er bezahlt für alle Staatsangehörigen Urlaubsreisen."
+    },
+    {
+        "question_number": 48,
+        "question": "Welches Organ gehört nicht zu den Verfassungsorganen Deutschlands?",
+        "options": [
+            "der Bundesrat",
+            "der Bundespräsident / die Bundespräsidentin",
+            "die Bürgerversammlung",
+            "die Regierung"
+        ],
+        "correct_answer": "die Bürgerversammlung"
+    },
+    {
+        "question_number": 49,
+        "question": "Wer bestimmt in Deutschland die Schulpolitik?",
+        "options": [
+            "die Lehrer und Lehrerinnen",
+            "die Bundesländer",
+            "das Familienministerium",
+            "die Universitäten"
+        ],
+        "correct_answer": "die Bundesländer"
+    },
+    {
+        "question_number": 50,
+        "question": "Die Wirtschaftsform in Deutschland nennt man …",
+        "options": [
+            "freie Zentralwirtschaft.",
+            "soziale Marktwirtschaft.",
+            "gelenkte Zentralwirtschaft.",
+            "Planwirtschaft."
+        ],
+        "correct_answer": "soziale Marktwirtschaft."
+    },
+    {
+        "question_number": 51,
+        "question": "Zu einem demokratischen Rechtsstaat gehört es nicht, dass …",
+        "options": [
+            "Menschen sich kritisch über die Regierung äußern können.",
+            "Bürger friedlich demonstrieren gehen dürfen.",
+            "Menschen von einer Privatpolizei ohne Grund verhaftet werden.",
+            "jemand ein Verbrechen begeht und deshalb verhaftet wird."
+        ],
+        "correct_answer": "Menschen von einer Privatpolizei ohne Grund verhaftet werden."
+    },
+    {
+        "question_number": 52,
+        "question": "Was bedeutet „Volkssouveränität“? Alle Staatsgewalt geht vom …",
+        "options": [
+            "Volke aus.",
+            "Bundestag aus.",
+            "preußischen König aus.",
+            "Bundesverfassungsgericht aus."
+        ],
+        "correct_answer": "Volke aus."
+    },
+    {
+        "question_number": 53,
+        "question": "Was bedeutet „Rechtsstaat“ in Deutschland?",
+        "options": [
+            "Der Staat hat Recht.",
+            "Es gibt nur rechte Parteien.",
+            "Die Bürger und Bürgerinnen entscheiden über Gesetze.",
+            "Der Staat muss die Gesetze einhalten."
+        ],
+        "correct_answer": "Der Staat muss die Gesetze einhalten."
+    },
+    {
+        "question_number": 54,
+        "question": "Was ist keine staatliche Gewalt in Deutschland?",
+        "options": [
+            "Legislative",
+            "Judikative",
+            "Exekutive",
+            "Direktive"
+        ],
+        "correct_answer": "Direktive"
+    },
+    {
+        "question_number": 55,
+        "question": "Was zeigt dieses Bild? Gebäude mit zwei Türmen rechts und links der Fassade, und einer Glaskuppel auf dem Dach mittig",
+        "options": [
+            "den Bundestagssitz in Berlin",
+            "das Bundesverfassungsgericht in Karlsruhe",
+            "das Bundesratsgebäude in Berlin",
+            "das Bundeskanzleramt in Berlin"
+        ],
+        "correct_answer": "den Bundestagssitz in Berlin"
+    },
+    {
+        "question_number": 56,
+        "question": "Welches Amt gehört in Deutschland zur Gemeindeverwaltung?",
+        "options": [
+            "Pfarramt",
+            "Ordnungsamt",
+            "Finanzamt",
+            "Auswärtiges Amt"
+        ],
+        "correct_answer": "Ordnungsamt"
+    },
+    {
+        "question_number": 57,
+        "question": "Wer wird meistens zum Präsidenten / zur Präsidentin des Deutschen Bundestages gewählt?",
+        "options": [
+            "der / die älteste Abgeordnete im Parlament",
+            "der Ministerpräsident / die Ministerpräsidentin des größten Bundeslandes",
+            "ein Abgeordneter / eine Abgeordnete der stärksten Fraktion",
+            "ein ehemaliger Bundeskanzler / eine ehemalige Bundeskanzlerin"
+        ],
+        "correct_answer": "ein Abgeordneter / eine Abgeordnete der stärksten Fraktion"
+    },
+    {
+        "question_number": 58,
+        "question": "Wer ernennt in Deutschland die Minister / die Ministerinnen der Bundesregierung?",
+        "options": [
+            "der Präsident / die Präsidentin des Bundesverfassungsgerichtes",
+            "der Bundespräsident / die Bundespräsidentin",
+            "der Bundesratspräsident / die Bundesratspräsidentin",
+            "der Bundestagspräsident / die Bundestagspräsidentin"
+        ],
+        "correct_answer": "der Bundespräsident / die Bundespräsidentin"
+    },
+    {
+        "question_number": 59,
+        "question": "Vor wie vielen Jahren gab es erstmals eine jüdische Gemeinde auf dem Gebiet des heutigen Deutschlands?",
+        "options": [
+            "vor etwa 300 Jahren",
+            "vor etwa 700 Jahren",
+            "vor etwa 1150 Jahren",
+            "vor etwa 1700 Jahren"
+        ],
+        "correct_answer": "vor etwa 1700 Jahren"
+    },
+    {
+        "question_number": 60,
+        "question": "In Deutschland gehören der Bundestag und der Bundesrat zur …",
+        "options": [
+            "Exekutive.",
+            "Legislative.",
+            "Direktive.",
+            "Judikative."
+        ],
+        "correct_answer": "Legislative."
+    },   
+    
+    {
+        "question_number": 61,
+        "question": "Was bedeutet „Volkssouveränität“?",
+        "options": [
+            "Der König / die Königin herrscht über das Volk.",
+            "Das Bundesverfassungsgericht steht über der Verfassung.",
+            "Die Interessenverbände üben die Souveränität zusammen mit der Regierung aus.",
+            "Die Staatsgewalt geht vom Volke aus."
+        ],
+        "correct_answer": "Die Staatsgewalt geht vom Volke aus."
+    },
+    {
+        "question_number": 62,
+        "question": "Wenn das Parlament eines deutschen Bundeslandes gewählt wird, nennt man das …",
+        "options": [
+            "Kommunalwahl.",
+            "Landtagswahl.",
+            "Europawahl.",
+            "Bundestagswahl."
+        ],
+        "correct_answer": "Landtagswahl."
+    },
+    {
+        "question_number": 63,
+        "question": "Was gehört in Deutschland nicht zur Exekutive?",
+        "options": [
+            "die Polizei",
+            "die Gerichte",
+            "das Finanzamt",
+            "die Ministerien"
+        ],
+        "correct_answer": "die Gerichte"
+    },
+    {
+        "question_number": 64,
+        "question": "Die Bundesrepublik Deutschland ist heute gegliedert in …",
+        "options": [
+            "vier Besatzungszonen.",
+            "einen Oststaat und einen Weststaat.",
+            "16 Kantone.",
+            "Bund, Länder und Kommunen."
+        ],
+        "correct_answer": "Bund, Länder und Kommunen."
+    },
+    {
+        "question_number": 65,
+        "question": "Es gehört nicht zu den Aufgaben des Deutschen Bundestages, …",
+        "options": [
+            "Gesetze zu entwerfen.",
+            "die Bundesregierung zu kontrollieren.",
+            "den Bundeskanzler / die Bundeskanzlerin zu wählen.",
+            "das Bundeskabinett zu bilden."
+        ],
+        "correct_answer": "das Bundeskabinett zu bilden."
+    },
+    {
+        "question_number": 66,
+        "question": "Welche Städte haben die größten jüdischen Gemeinden in Deutschland?",
+        "options": [
+            "Berlin und München",
+            "Hamburg und Essen",
+            "Nürnberg und Stuttgart",
+            "Worms und Speyer"
+        ],
+        "correct_answer": "Berlin und München"
+    },
+    {
+        "question_number": 67,
+        "question": "Was ist in Deutschland vor allem eine Aufgabe der Bundesländer?",
+        "options": [
+            "Verteidigungspolitik",
+            "Außenpolitik",
+            "Wirtschaftspolitik",
+            "Schulpolitik"
+        ],
+        "correct_answer": "Schulpolitik"
+    },
+    {
+        "question_number": 68,
+        "question": "Warum kontrolliert der Staat in Deutschland das Schulwesen?",
+        "options": [
+            "weil es in Deutschland nur staatliche Schulen gibt",
+            "weil alle Schüler und Schülerinnen einen Schulabschluss haben müssen",
+            "weil es in den Bundesländern verschiedene Schulen gibt",
+            "weil es nach dem Grundgesetz seine Aufgabe ist"
+        ],
+        "correct_answer": "weil es nach dem Grundgesetz seine Aufgabe ist"
+    },
+    {
+        "question_number": 69,
+        "question": "Die Bundesrepublik Deutschland hat einen dreistufigen Verwaltungsaufbau. Wie heißt die unterste politische Stufe?",
+        "options": [
+            "Stadträte",
+            "Landräte",
+            "Gemeinden",
+            "Bezirksämter"
+        ],
+        "correct_answer": "Gemeinden"
+    },
+    {
+        "question_number": 70,
+        "question": "Der deutsche Bundespräsident Gustav Heinemann gibt Helmut Schmidt 1974 die Ernennungsurkunde zum deutschen Bundeskanzler. Was gehört zu den Aufgaben des deutschen Bundespräsidenten / der deutschen Bundespräsidentin?",
+        "options": [
+            "Er / Sie führt die Regierungsgeschäfte.",
+            "Er / Sie kontrolliert die Regierungspartei.",
+            "Er / Sie wählt die Minister / Ministerinnen aus.",
+            "Er / Sie schlägt den Kanzler / die Kanzlerin zur Wahl vor."
+        ],
+        "correct_answer": "Er / Sie schlägt den Kanzler / die Kanzlerin zur Wahl vor."
+    },
+    {
+        "question_number": 71,
+        "question": "Wo hält sich der deutsche Bundeskanzler / die deutsche Bundeskanzlerin am häufigsten auf? Am häufigsten ist er / sie …",
+        "options": [
+            "in Bonn, weil sich dort das Bundeskanzleramt und der Bundestag befinden.",
+            "in Berlin, weil sich dort das Bundeskanzleramt und der Bundestag befinden.",
+            "auf Schloss Meseberg, dem Gästehaus der Bundesregierung, um Staatsgäste zu empfangen.",
+            "auf Schloss Bellevue, dem Amtssitz des Bundespräsidenten / der Bundespräsidentin, um Staatsgäste zu empfangen."
+        ],
+        "correct_answer": "in Berlin, weil sich dort das Bundeskanzleramt und der Bundestag befinden."
+    },
+    {
+        "question_number": 72,
+        "question": "Wie heißt der jetzige Bundeskanzler / die jetzige Bundeskanzlerin von Deutschland?",
+        "options": [
+            "Gerhard Schröder",
+            "Angela Merkel",
+            "Franziska Giffey",
+            "Olaf Scholz"
+        ],
+        "correct_answer": "Olaf Scholz"
+    },
+    {
+        "question_number": 73,
+        "question": "Die beiden größten Fraktionen im Deutschen Bundestag heißen zurzeit …",
+        "options": [
+            "CDU/CSU und SPD.",
+            "Die Linke und Bündnis 90/Die Grünen.",
+            "FDP und SPD.",
+            "Die Linke und FDP."
+        ],
+        "correct_answer": "CDU/CSU und SPD."
+    },
+    {
+        "question_number": 74,
+        "question": "Wie heißt das Parlament für ganz Deutschland?",
+        "options": [
+            "Bundesversammlung",
+            "Volkskammer",
+            "Bundestag",
+            "Bundesgerichtshof"
+        ],
+        "correct_answer": "Bundestag"
+    },
+    {
+        "question_number": 75,
+        "question": "Wie heißt Deutschlands heutiges Staatsoberhaupt?",
+        "options": [
+            "Frank-Walter Steinmeier",
+            "Bärbel Bas",
+            "Bodo Ramelow",
+            "Joachim Gauck"
+        ],
+        "correct_answer": "Frank-Walter Steinmeier"
+    },
+    {
+        "question_number": 76,
+        "question": "Was bedeutet die Abkürzung CDU in Deutschland?",
+        "options": [
+            "Christliche Deutsche Union",
+            "Club Deutscher Unternehmer",
+            "Christlicher Deutscher Umweltschutz",
+            "Christlich Demokratische Union"
+        ],
+        "correct_answer": "Christlich Demokratische Union"
+    },
+    {
+        "question_number": 77,
+        "question": "Was ist die Bundeswehr?",
+        "options": [
+            "die deutsche Polizei",
+            "ein deutscher Hafen",
+            "eine deutsche Bürgerinitiative",
+            "die deutsche Armee"
+        ],
+        "correct_answer": "die deutsche Armee"
+    },
+    {
+        "question_number": 78,
+        "question": "Was bedeutet die Abkürzung SPD?",
+        "options": [
+            "Sozialistische Partei Deutschlands",
+            "Sozialpolitische Partei Deutschlands",
+            "Sozialdemokratische Partei Deutschlands",
+            "Sozialgerechte Partei Deutschlands"
+        ],
+        "correct_answer": "Sozialdemokratische Partei Deutschlands"
+    },
+    {
+        "question_number": 79,
+        "question": "Was bedeutet die Abkürzung FDP in Deutschland?",
+        "options": [
+            "Friedliche Demonstrative Partei",
+            "Freie Deutschland Partei",
+            "Führende Demokratische Partei",
+            "Freie Demokratische Partei"
+        ],
+        "correct_answer": "Freie Demokratische Partei"
+    },
+    {
+        "question_number": 80,
+        "question": "Welches Gericht in Deutschland ist zuständig für die Auslegung des Grundgesetzes?",
+        "options": [
+            "Oberlandesgericht",
+            "Amtsgericht",
+            "Bundesverfassungsgericht",
+            "Verwaltungsgericht"
+        ],
+        "correct_answer": "Bundesverfassungsgericht"
+    },
+    {
+        "question_number": 81,
+        "question": "Wer wählt den Bundeskanzler / die Bundeskanzlerin in Deutschland?",
+        "options": [
+            "der Bundesrat",
+            "die Bundesversammlung",
+            "das Volk",
+            "der Bundestag"
+        ],
+        "correct_answer": "der Bundestag"
+    },
+    {
+        "question_number": 82,
+        "question": "Wer leitet das deutsche Bundeskabinett?",
+        "options": [
+            "der Bundestagspräsident / die Bundestagspräsidentin",
+            "der Bundespräsident / die Bundespräsidentin",
+            "der Bundeskanzler / die Bundeskanzlerin",
+            "der Bundesratspräsident / die Bundesratspräsidentin"
+        ],
+        "correct_answer": "der Bundeskanzler / die Bundeskanzlerin"
+    },
+    {
+        "question_number": 83,
+        "question": "Wer wählt den deutschen Bundeskanzler / die deutsche Bundeskanzlerin?",
+        "options": [
+            "das Volk",
+            "die Bundesversammlung",
+            "der Bundestag",
+            "die Bundesregierung"
+        ],
+        "correct_answer": "der Bundestag"
+    },
+    {
+        "question_number": 84,
+        "question": "Welche Hauptaufgabe hat der deutsche Bundespräsident / die deutsche Bundespräsidentin? Er / Sie …",
+        "options": [
+            "regiert das Land.",
+            "entwirft die Gesetze.",
+            "repräsentiert das Land.",
+            "überwacht die Einhaltung der Gesetze."
+        ],
+        "correct_answer": "repräsentiert das Land."
+    },
+    {
+        "question_number": 85,
+        "question": "Wer bildet den deutschen Bundesrat?",
+        "options": [
+            "die Abgeordneten des Bundestages",
+            "die Minister und Ministerinnen der Bundesregierung",
+            "die Regierungsvertreter der Bundesländer",
+            "die Parteimitglieder"
+        ],
+        "correct_answer": "die Regierungsvertreter der Bundesländer"
+    },
+    {
+        "question_number": 86,
+        "question": "Wer wählt in Deutschland den Bundespräsidenten / die Bundespräsidentin?",
+        "options": [
+            "die Bundesversammlung",
+            "der Bundesrat",
+            "das Bundesparlament",
+            "das Bundesverfassungsgericht"
+        ],
+        "correct_answer": "die Bundesversammlung"
+    },
+    {
+        "question_number": 87,
+        "question": "Wer ist das Staatsoberhaupt der Bundesrepublik Deutschland?",
+        "options": [
+            "der Bundeskanzler / die Bundeskanzlerin",
+            "der Bundespräsident / die Bundespräsidentin",
+            "der Bundesratspräsident / die Bundesratspräsidentin",
+            "der Bundestagspräsident / die Bundestagspräsidentin"
+        ],
+        "correct_answer": "der Bundespräsident / die Bundespräsidentin"
+    },
+    {
+        "question_number": 88,
+        "question": "Die parlamentarische Opposition im Deutschen Bundestag …",
+        "options": [
+            "kontrolliert die Regierung.",
+            "entscheidet, wer Bundesminister / Bundesministerin wird.",
+            "bestimmt, wer im Bundesrat sitzt.",
+            "schlägt die Regierungschefs / Regierungschefinnen der Länder vor."
+        ],
+        "correct_answer": "kontrolliert die Regierung."
+    },
+    {
+        "question_number": 89,
+        "question": "Wie nennt man in Deutschland die Vereinigung von Abgeordneten einer Partei im Parlament?",
+        "options": [
+            "Verband",
+            "Ältestenrat",
+            "Fraktion",
+            "Opposition"
+        ],
+        "correct_answer": "Fraktion"
+    },
+    {
+        "question_number": 90,
+        "question": "Die deutschen Bundesländer wirken an der Gesetzgebung des Bundes mit durch …",
+        "options": [
+            "den Bundesrat.",
+            "die Bundesversammlung.",
+            "den Bundestag.",
+            "die Bundesregierung."
+        ],
+        "correct_answer": "den Bundesrat."
     }
+  
+
 ]
 
 
