@@ -990,9 +990,1000 @@
             "die Bundesregierung."
         ],
         "correct_answer": "den Bundesrat."
-    }
+    },
   
-
+    {
+        "question_number": 91,
+        "question": "In Deutschland kann ein Regierungswechsel in einem Bundesland Auswirkungen auf die Bundespolitik haben. Das Regieren wird …",
+        "options": [
+            "schwieriger, wenn sich dadurch die Mehrheit im Bundestag ändert.",
+            "leichter, wenn dadurch neue Parteien in den Bundesrat kommen.",
+            "schwieriger, wenn dadurch die Mehrheit im Bundesrat verändert wird.",
+            "leichter, wenn es sich um ein reiches Bundesland handelt."
+        ],
+        "correct_answer": "schwieriger, wenn dadurch die Mehrheit im Bundesrat verändert wird."
+    },
+    {
+        "question_number": 92,
+        "question": "Was bedeutet die Abkürzung CSU in Deutschland?",
+        "options": [
+            "Christlich Sichere Union",
+            "Christlich Süddeutsche Union",
+            "Christlich Sozialer Unternehmerverband",
+            "Christlich Soziale Union"
+        ],
+        "correct_answer": "Christlich Soziale Union"
+    },
+    {
+        "question_number": 93,
+        "question": "Je mehr „Zweitstimmen“ eine Partei bei einer Bundestagswahl bekommt, desto …",
+        "options": [
+            "mehr Sitze erhält die Partei im Parlament.",
+            "weniger Erststimmen kann sie haben.",
+            "mehr Direktkandidaten der Partei ziehen ins Parlament ein.",
+            "größer ist das Risiko, eine Koalition bilden zu müssen."
+        ],
+        "correct_answer": "mehr Sitze erhält die Partei im Parlament."
+    },
+    {
+        "question_number": 94,
+        "question": "Ab welchem Alter darf man in Deutschland an der Wahl zum Deutschen Bundestag teilnehmen?",
+        "options": [
+            "16",
+            "18",
+            "21",
+            "23"
+        ],
+        "correct_answer": "18"
+    },
+    {
+        "question_number": 95,
+        "question": "Was gilt für die meisten Kinder in Deutschland?",
+        "options": [
+            "Wahlpflicht",
+            "Schulpflicht",
+            "Schweigepflicht",
+            "Religionspflicht"
+        ],
+        "correct_answer": "Schulpflicht"
+    },
+    {
+        "question_number": 96,
+        "question": "Wie kann jemand, der den Holocaust leugnet, bestraft werden?",
+        "options": [
+            "Kürzung sozialer Leistungen",
+            "bis zu 100 Sozialstunden",
+            "gar nicht, Holocaustleugnung ist erlaubt",
+            "mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe"
+        ],
+        "correct_answer": "mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe"
+    },
+    {
+        "question_number": 97,
+        "question": "Was bezahlt man in Deutschland automatisch, wenn man fest angestellt ist?",
+        "options": [
+            "Sozialversicherung",
+            "Sozialhilfe",
+            "Kindergeld",
+            "Wohngeld"
+        ],
+        "correct_answer": "Sozialversicherung"
+    },
+    {
+        "question_number": 98,
+        "question": "Wenn Abgeordnete im Deutschen Bundestag ihre Fraktion wechseln, …",
+        "options": [
+            "kann die Regierung ihre Mehrheit verlieren.",
+            "dürfen sie nicht mehr an den Sitzungen des Parlaments teilnehmen.",
+            "muss der Bundespräsident / die Bundespräsidentin zuvor sein / ihr Einverständnis geben.",
+            "dürfen die Wähler / Wählerinnen dieser Abgeordneten noch einmal wählen."
+        ],
+        "correct_answer": "kann die Regierung ihre Mehrheit verlieren."
+    },
+    {
+        "question_number": 99,
+        "question": "Wer bezahlt in Deutschland die Sozialversicherungen?",
+        "options": [
+            "Arbeitgeber / Arbeitgeberinnen und Arbeitnehmer / Arbeitnehmerinnen",
+            "nur Arbeitnehmer / Arbeitnehmerinnen",
+            "alle Staatsangehörigen",
+            "nur Arbeitgeber / Arbeitgeberinnen"
+        ],
+        "correct_answer": "Arbeitgeber / Arbeitgeberinnen und Arbeitnehmer / Arbeitnehmerinnen"
+    },
+    {
+        "question_number": 100,
+        "question": "Was gehört nicht zur gesetzlichen Sozialversicherung?",
+        "options": [
+            "die gesetzliche Rentenversicherung",
+            "die Lebensversicherung",
+            "die Arbeitslosenversicherung",
+            "die Pflegeversicherung"
+        ],
+        "correct_answer": "die Lebensversicherung"
+    },
+    {
+        "question_number": 101,
+        "question": "Gewerkschaften sind Interessenverbände der …",
+        "options": [
+            "Jugendlichen.",
+            "Arbeitnehmer und Arbeitnehmerinnen.",
+            "Rentner und Rentnerinnen.",
+            "Arbeitgeber und Arbeitgeberinnen."
+        ],
+        "correct_answer": "Arbeitnehmer und Arbeitnehmerinnen."
+    },
+    {
+        "question_number": 102,
+        "question": "Womit kann man in der Bundesrepublik Deutschland geehrt werden, wenn man auf politischem, wirtschaftlichem, kulturellem, geistigem oder sozialem Gebiet eine besondere Leistung erbracht hat? Mit dem …",
+        "options": [
+            "Bundesadler",
+            "Bundesverdienstkreuz",
+            "Vaterländischen Verdienstorden",
+            "Ehrentitel „Held der Deutschen Demokratischen Republik“"
+        ],
+        "correct_answer": "Bundesverdienstkreuz"
+    },
+    {
+        "question_number": 103,
+        "question": "Was wird in Deutschland als „Ampelkoalition“ bezeichnet?",
+        "options": [
+            "der Bundestagsfraktionen von CDU und CSU",
+            "von SPD, FDP und Bündnis 90/Die Grünen in einer Regierung",
+            "von CSU, Die Linke und Bündnis 90/Die Grünen in einer Regierung",
+            "der Bundestagsfraktionen von CDU und SPD"
+        ],
+        "correct_answer": "von SPD, FDP und Bündnis 90/Die Grünen in einer Regierung"
+    },
+    {
+        "question_number": 104,
+        "question": "Eine Frau in Deutschland verliert ihre Arbeit. Was darf nicht der Grund für diese Entlassung sein?",
+        "options": [
+            "Die Frau ist lange krank und arbeitsunfähig.",
+            "Die Frau kam oft zu spät zur Arbeit.",
+            "Die Frau erledigt private Sachen während der Arbeitszeit.",
+            "Die Frau bekommt ein Kind und ihr Chef weiß das."
+        ],
+        "correct_answer": "Die Frau bekommt ein Kind und ihr Chef weiß das."
+    },
+    {
+        "question_number": 105,
+        "question": "Was ist eine Aufgabe von Wahlhelfern / Wahlhelferinnen in Deutschland?",
+        "options": [
+            "Sie helfen alten Menschen bei der Stimmabgabe in der Wahlkabine.",
+            "Sie schreiben die Wahlbenachrichtigungen vor der Wahl.",
+            "Sie geben Zwischenergebnisse an die Medien weiter.",
+            "Sie zählen die Stimmen nach dem Ende der Wahl."
+        ],
+        "correct_answer": "Sie zählen die Stimmen nach dem Ende der Wahl."
+    },
+    {
+        "question_number": 106,
+        "question": "In Deutschland helfen ehrenamtliche Wahlhelfer und Wahlhelferinnen bei den Wahlen. Was ist eine Aufgabe von Wahlhelfern / Wahlhelferinnen?",
+        "options": [
+            "Sie helfen Kindern und alten Menschen beim Wählen.",
+            "Sie schreiben Karten und Briefe mit der Angabe des Wahllokals.",
+            "Sie geben Zwischenergebnisse an Journalisten weiter.",
+            "Sie zählen die Stimmen nach dem Ende der Wahl."
+        ],
+        "correct_answer": "Sie zählen die Stimmen nach dem Ende der Wahl."
+    },
+    {
+        "question_number": 107,
+        "question": "Für wie viele Jahre wird der Bundestag in Deutschland gewählt?",
+        "options": [
+            "2 Jahre",
+            "4 Jahre",
+            "6 Jahre",
+            "8 Jahre"
+        ],
+        "correct_answer": "4 Jahre"
+    },
+    {
+        "question_number": 108,
+        "question": "Bei einer Bundestagswahl in Deutschland darf jeder wählen, der …",
+        "options": [
+            "in der Bundesrepublik Deutschland wohnt und wählen möchte.",
+            "Bürger / Bürgerin der Bundesrepublik Deutschland ist und mindestens 18 Jahre alt ist.",
+            "seit mindestens 3 Jahren in der Bundesrepublik Deutschland lebt.",
+            "Bürger / Bürgerin der Bundesrepublik Deutschland ist und mindestens 21 Jahre alt ist."
+        ],
+        "correct_answer": "Bürger / Bürgerin der Bundesrepublik Deutschland ist und mindestens 18 Jahre alt ist."
+    },
+    {
+        "question_number": 109,
+        "question": "Wie oft gibt es normalerweise Bundestagswahlen in Deutschland?",
+        "options": [
+            "alle drei Jahre",
+            "alle vier Jahre",
+            "alle fünf Jahre",
+            "alle sechs Jahre"
+        ],
+        "correct_answer": "alle vier Jahre"
+    },
+    {
+        "question_number": 110,
+        "question": "Für wie viele Jahre wird der Bundestag in Deutschland gewählt?",
+        "options": [
+            "2 Jahre",
+            "3 Jahre",
+            "4 Jahre",
+            "5 Jahre"
+        ],
+        "correct_answer": "4 Jahre"
+    },
+    {
+        "question_number": 111,
+        "question": "Welche Handlung mit Bezug auf den Staat Israel ist in Deutschland verboten?",
+        "options": [
+            "Die Politik Israels öffentlich kritisieren.",
+            "Das Aufhängen einer israelischen Flagge auf dem Privatgrundstück.",
+            "Eine Diskussion über die Politik Israels.",
+            "Der öffentliche Aufruf zur Vernichtung Israels."
+        ],
+        "correct_answer": "Der öffentliche Aufruf zur Vernichtung Israels."
+    },
+    {
+        "question_number": 112,
+        "question": "Die Wahlen in Deutschland sind …",
+        "options": [
+            "speziell.",
+            "geheim.",
+            "berufsbezogen.",
+            "geschlechtsabhängig."
+        ],
+        "correct_answer": "geheim."
+    },
+    {
+        "question_number": 113,
+        "question": "Wahlen in Deutschland gewinnt die Partei, die …",
+        "options": [
+            "die meisten Stimmen bekommt.",
+            "die meisten Männer mehrheitlich gewählt haben.",
+            "die meisten Stimmen bei den Arbeitern / Arbeiterinnen bekommen hat.",
+            "die meisten Erststimmen für ihren Kanzlerkandidaten / ihre Kanzlerkandidatin erhalten hat."
+        ],
+        "correct_answer": "die meisten Stimmen bekommt."
+    },
+    {
+        "question_number": 114,
+        "question": "An demokratischen Wahlen in Deutschland teilzunehmen ist …",
+        "options": [
+            "eine Pflicht.",
+            "ein Recht.",
+            "ein Zwang.",
+            "eine Last."
+        ],
+        "correct_answer": "ein Recht."
+    },
+    {
+        "question_number": 115,
+        "question": "Was bedeutet „aktives Wahlrecht“ in Deutschland?",
+        "options": [
+            "Man kann gewählt werden.",
+            "Man muss wählen gehen.",
+            "Man kann wählen.",
+            "Man muss zur Auszählung der Stimmen gehen."
+        ],
+        "correct_answer": "Man kann wählen."
+    },
+    {
+        "question_number": 116,
+        "question": "Wenn Sie bei einer Bundestagswahl in Deutschland wählen dürfen, heißt das …",
+        "options": [
+            "aktive Wahlkampagne.",
+            "aktives Wahlverfahren.",
+            "aktiver Wahlkampf.",
+            "aktives Wahlrecht."
+        ],
+        "correct_answer": "aktives Wahlrecht."
+    },
+    {
+        "question_number": 117,
+        "question": "Wie viel Prozent der Zweitstimmen müssen Parteien mindestens bekommen, um in den Deutschen Bundestag gewählt zu werden?",
+        "options": [
+            "3 %",
+            "4 %",
+            "5 %",
+            "6 %"
+        ],
+        "correct_answer": "5 %"
+    },
+    {
+        "question_number": 118,
+        "question": "Wer darf bei den rund 40 jüdischen Makkabi-Sportvereinen Mitglied werden?",
+        "options": [
+            "nur Deutsche",
+            "nur Israelis",
+            "nur religiöse Menschen",
+            "alle Menschen"
+        ],
+        "correct_answer": "alle Menschen"
+    },
+    {
+        "question_number": 119,
+        "question": "Wahlen in Deutschland sind frei. Was bedeutet das?",
+        "options": [
+            "Alle verurteilten Straftäter / Straftäterinnen dürfen nicht wählen.",
+            "Wenn ich wählen gehen möchte, muss mein Arbeitgeber / meine Arbeitgeberin mir frei geben.",
+            "Jede Person kann ohne Zwang entscheiden, ob sie wählen möchte und wen sie wählen möchte.",
+            "Ich kann frei entscheiden, wo ich wählen gehen möchte."
+        ],
+        "correct_answer": "Jede Person kann ohne Zwang entscheiden, ob sie wählen möchte und wen sie wählen möchte."
+    },
+    {
+        "question_number": 120,
+        "question": "Das Wahlsystem in Deutschland ist ein …",
+        "options": [
+            "Zensuswahlrecht.",
+            "Dreiklassenwahlrecht.",
+            "Mehrheits- und Verhältniswahlrecht.",
+            "allgemeines Männerwahlrecht."
+        ],
+        "correct_answer": "Mehrheits- und Verhältniswahlrecht."
+    },
+    {
+        "question_number": 121,
+        "question": "Eine Partei möchte in den Deutschen Bundestag. Sie muss aber einen Mindestanteil an Wählerstimmen haben. Das heißt …",
+        "options": [
+            "5 %-Hürde.",
+            "Zulassungsgrenze.",
+            "Basiswert.",
+            "Richtlinie."
+        ],
+        "correct_answer": "5 %-Hürde."
+    },
+    {
+        "question_number": 122,
+        "question": "Welchem Grundsatz unterliegen Wahlen in Deutschland? Wahlen in Deutschland sind …",
+        "options": [
+            "frei, gleich, geheim.",
+            "offen, sicher, frei.",
+            "geschlossen, gleich, sicher.",
+            "sicher, offen, freiwillig."
+        ],
+        "correct_answer": "frei, gleich, geheim."
+    },
+    {
+        "question_number": 123,
+        "question": "Was ist in Deutschland die „5 %-Hürde“?",
+        "options": [
+            "Abstimmungsregelung im Bundestag für kleine Parteien",
+            "Anwesenheitskontrolle im Bundestag für Abstimmungen",
+            "Mindestanteil an Wählerstimmen, um ins Parlament zu kommen",
+            "Anwesenheitskontrolle im Bundesrat für Abstimmungen"
+        ],
+        "correct_answer": "Mindestanteil an Wählerstimmen, um ins Parlament zu kommen"
+    },
+    {
+        "question_number": 124,
+        "question": "Die Bundestagswahl in Deutschland ist die Wahl …",
+        "options": [
+            "des Bundeskanzlers / der Bundeskanzlerin.",
+            "der Parlamente der Länder.",
+            "des Parlaments für Deutschland.",
+            "des Bundespräsidenten / der Bundespräsidentin."
+        ],
+        "correct_answer": "des Parlaments für Deutschland."
+    },
+    {
+        "question_number": 125,
+        "question": "In einer Demokratie ist eine Funktion von regelmäßigen Wahlen, …",
+        "options": [
+            "die Bürger und Bürgerinnen zu zwingen, ihre Stimme abzugeben.",
+            "nach dem Willen der Wählermehrheit den Wechsel der Regierung zu ermöglichen.",
+            "im Land bestehende Gesetze beizubehalten.",
+            "den Armen mehr Macht zu geben."
+        ],
+        "correct_answer": "nach dem Willen der Wählermehrheit den Wechsel der Regierung zu ermöglichen."
+    },
+    {
+        "question_number": 126,
+        "question": "Was bekommen wahlberechtigte Bürger und Bürgerinnen in Deutschland vor einer Wahl?",
+        "options": [
+            "eine Wahlbenachrichtigung von der Gemeinde",
+            "eine Wahlerlaubnis vom Bundespräsidenten / von der Bundespräsidentin",
+            "eine Benachrichtigung von der Bundesversammlung",
+            "eine Benachrichtigung vom Pfarramt"
+        ],
+        "correct_answer": "eine Wahlbenachrichtigung von der Gemeinde"
+    },
+    {
+        "question_number": 127,
+        "question": "Warum gibt es die 5 %-Hürde im Wahlgesetz der Bundesrepublik Deutschland? Es gibt sie, weil …",
+        "options": [
+            "die Programme von vielen kleinen Parteien viele Gemeinsamkeiten haben.",
+            "die Bürger und Bürgerinnen bei vielen kleinen Parteien die Orientierung verlieren können.",
+            "viele kleine Parteien die Regierungsbildung erschweren.",
+            "die kleinen Parteien nicht so viel Geld haben, um die Politiker und Politikerinnen zu bezahlen."
+        ],
+        "correct_answer": "viele kleine Parteien die Regierungsbildung erschweren."
+    },
+    {
+        "question_number": 128,
+        "question": "Parlamentsmitglieder, die von den Bürgern und Bürgerinnen gewählt werden, nennt man …",
+        "options": [
+            "Abgeordnete.",
+            "Kanzler / Kanzlerinnen.",
+            "Botschafter / Botschafterinnen.",
+            "Ministerpräsidenten / Ministerpräsidentinnen."
+        ],
+        "correct_answer": "Abgeordnete."
+    },
+    {
+        "question_number": 129,
+        "question": "Vom Volk gewählt wird in Deutschland …",
+        "options": [
+            "der Bundeskanzler / die Bundeskanzlerin.",
+            "der Ministerpräsident / die Ministerpräsidentin eines Bundeslandes.",
+            "der Bundestag.",
+            "der Bundespräsident / die Bundespräsidentin."
+        ],
+        "correct_answer": "der Bundestag."
+    },
+    {
+        "question_number": 130,
+        "question": "Welcher Stimmzettel wäre bei einer Bundestagswahl gültig?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question_number": 131,
+        "question": "In Deutschland ist ein Bürgermeister / eine Bürgermeisterin …",
+        "options": [
+            "der Leiter / die Leiterin einer Schule.",
+            "der Chef / die Chefin einer Bank.",
+            "das Oberhaupt einer Gemeinde.",
+            "der / die Vorsitzende einer Partei."
+        ],
+        "correct_answer": "das Oberhaupt einer Gemeinde."
+    },
+    {
+        "question_number": 132,
+        "question": "Viele Menschen in Deutschland arbeiten in ihrer Freizeit ehrenamtlich. Was bedeutet das?",
+        "options": [
+            "Sie arbeiten als Soldaten / Soldatinnen.",
+            "Sie arbeiten freiwillig und unbezahlt in Vereinen und Verbänden.",
+            "Sie arbeiten in der Bundesregierung.",
+            "Sie arbeiten in einem Krankenhaus und verdienen dabei Geld."
+        ],
+        "correct_answer": "Sie arbeiten freiwillig und unbezahlt in Vereinen und Verbänden."
+    },
+    {
+        "question_number": 133,
+        "question": "Was ist bei Bundestags- und Landtagswahlen in Deutschland erlaubt?",
+        "options": [
+            "Der Ehemann wählt für seine Frau mit.",
+            "Man kann durch Briefwahl seine Stimme abgeben.",
+            "Man kann am Wahltag telefonisch seine Stimme abgeben.",
+            "Kinder ab dem Alter von 14 Jahren dürfen wählen."
+        ],
+        "correct_answer": "Man kann durch Briefwahl seine Stimme abgeben."
+    },
+    {
+        "question_number": 134,
+        "question": "Man will die Buslinie abschaffen, mit der Sie immer zur Arbeit fahren. Was können Sie machen, um die Buslinie zu erhalten?",
+        "options": [
+            "Ich beteilige mich an einer Bürgerinitiative für die Erhaltung der Buslinie oder gründe selber eine Initiative.",
+            "Ich werde Mitglied in einem Sportverein und trainiere Rad fahren.",
+            "Ich wende mich an das Finanzamt, weil ich als Steuerzahler / Steuerzahlerin ein Recht auf die Buslinie habe.",
+            "Ich schreibe einen Brief an das Forstamt der Gemeinde."
+        ],
+        "correct_answer": "Ich beteilige mich an einer Bürgerinitiative für die Erhaltung der Buslinie oder gründe selber eine Initiative."
+    },
+    {
+        "question_number": 135,
+        "question": "Wen vertreten die Gewerkschaften in Deutschland?",
+        "options": [
+            "große Unternehmen",
+            "kleine Unternehmen",
+            "Selbstständige",
+            "Arbeitnehmer und Arbeitnehmerinnen"
+        ],
+        "correct_answer": "Arbeitnehmer und Arbeitnehmerinnen"
+    },
+    {
+        "question_number": 136,
+        "question": "Sie gehen in Deutschland zum Arbeitsgericht bei …",
+        "options": [
+            "falscher Nebenkostenabrechnung.",
+            "ungerechtfertigter Kündigung durch Ihren Chef / Ihre Chefin.",
+            "Problemen mit den Nachbarn / Nachbarinnen.",
+            "Schwierigkeiten nach einem Verkehrsunfall."
+        ],
+        "correct_answer": "ungerechtfertigter Kündigung durch Ihren Chef / Ihre Chefin."
+    },
+    {
+        "question_number": 137,
+        "question": "Welches Gericht ist in Deutschland bei Konflikten in der Arbeitswelt zuständig?",
+        "options": [
+            "das Familiengericht",
+            "das Strafgericht",
+            "das Arbeitsgericht",
+            "das Amtsgericht"
+        ],
+        "correct_answer": "das Arbeitsgericht"
+    },
+    {
+        "question_number": 138,
+        "question": "Was kann ich in Deutschland machen, wenn mir mein Arbeitgeber / meine Arbeitgeberin zu Unrecht gekündigt hat?",
+        "options": [
+            "weiter arbeiten und freundlich zum Chef / zur Chefin sein",
+            "ein Mahnverfahren gegen den Arbeitgeber / die Arbeitgeberin führen",
+            "Kündigungsschutzklage erheben",
+            "den Arbeitgeber / die Arbeitgeberin bei der Polizei anzeigen"
+        ],
+        "correct_answer": "Kündigungsschutzklage erheben"
+    },
+    {
+        "question_number": 139,
+        "question": "Wann kommt es in Deutschland zu einem Prozess vor Gericht? Wenn jemand …",
+        "options": [
+            "zu einer anderen Religion übertritt.",
+            "eine Straftat begangen hat und angeklagt wird.",
+            "eine andere Meinung als die der Regierung vertritt.",
+            "sein Auto falsch geparkt hat und es abgeschleppt wird."
+        ],
+        "correct_answer": "eine Straftat begangen hat und angeklagt wird."
+    },
+    {
+        "question_number": 140,
+        "question": "Was macht ein Schöffe / eine Schöffin in Deutschland? Er / Sie …",
+        "options": [
+            "entscheidet mit Richtern / Richterinnen über Schuld und Strafe.",
+            "gibt Bürgern / Bürgerinnen rechtlichen Rat.",
+            "stellt Urkunden aus.",
+            "verteidigt den Angeklagten / die Angeklagte."
+        ],
+        "correct_answer": "entscheidet mit Richtern / Richterinnen über Schuld und Strafe."
+    },
+    {
+        "question_number": 141,
+        "question": "Wer berät in Deutschland Personen bei Rechtsfragen und vertritt sie vor Gericht?",
+        "options": [
+            "ein Rechtsanwalt / eine Rechtsanwältin",
+            "ein Richter / eine Richterin",
+            "ein Schöffe / eine Schöffin",
+            "ein Staatsanwalt / eine Staatsanwältin"
+        ],
+        "correct_answer": "ein Rechtsanwalt / eine Rechtsanwältin"
+    },
+    {
+        "question_number": 142,
+        "question": "Was ist die Hauptaufgabe eines Richters / einer Richterin in Deutschland? Ein Richter / eine Richterin …",
+        "options": [
+            "vertritt Bürger und Bürgerinnen vor einem Gericht.",
+            "arbeitet an einem Gericht und spricht Urteile.",
+            "ändert Gesetze.",
+            "betreut Jugendliche vor Gericht."
+        ],
+        "correct_answer": "arbeitet an einem Gericht und spricht Urteile."
+    },
+    {
+        "question_number": 143,
+        "question": "Ein Richter / eine Richterin in Deutschland gehört zur …",
+        "options": [
+            "Judikative.",
+            "Exekutive.",
+            "Operative.",
+            "Legislative."
+        ],
+        "correct_answer": "Judikative."
+    },
+    {
+        "question_number": 144,
+        "question": "Ein Richter / eine Richterin gehört in Deutschland zur …",
+        "options": [
+            "vollziehenden Gewalt.",
+            "rechtsprechenden Gewalt.",
+            "planenden Gewalt.",
+            "gesetzgebenden Gewalt."
+        ],
+        "correct_answer": "rechtsprechenden Gewalt."
+    },
+    {
+        "question_number": 145,
+        "question": "In Deutschland wird die Staatsgewalt geteilt. Für welche Staatsgewalt arbeitet ein Richter / eine Richterin? Für die …",
+        "options": [
+            "Judikative.",
+            "Exekutive.",
+            "Presse.",
+            "Legislative."
+        ],
+        "correct_answer": "Judikative."
+    },
+    {
+        "question_number": 146,
+        "question": "Wie nennt man in Deutschland ein Verfahren vor einem Gericht?",
+        "options": [
+            "Programm",
+            "Prozedur",
+            "Protokoll",
+            "Prozess"
+        ],
+        "correct_answer": "Prozess"
+    },
+    {
+        "question_number": 147,
+        "question": "Was ist die Arbeit eines Richters / einer Richterin in Deutschland?",
+        "options": [
+            "Deutschland regieren",
+            "Recht sprechen",
+            "Pläne erstellen",
+            "Gesetze erlassen"
+        ],
+        "correct_answer": "Recht sprechen"
+    },
+    {
+        "question_number": 148,
+        "question": "Was ist eine Aufgabe der Polizei in Deutschland?",
+        "options": [
+            "das Land zu verteidigen",
+            "die Bürgerinnen und Bürger abzuhören",
+            "die Gesetze zu beschließen",
+            "die Einhaltung von Gesetzen zu überwachen"
+        ],
+        "correct_answer": "die Einhaltung von Gesetzen zu überwachen"
+    },
+    {
+        "question_number": 149,
+        "question": "Was ist ein Beispiel für antisemitisches Verhalten?",
+        "options": [
+            "ein jüdisches Fest besuchen",
+            "die israelische Regierung kritisieren",
+            "den Holocaust leugnen",
+            "gegen Juden Fußball spielen"
+        ],
+        "correct_answer": "den Holocaust leugnen"
+    },
+    {
+        "question_number": 150,
+        "question": "Ein Gerichtsschöffe / eine Gerichtsschöffin in Deutschland ist …",
+        "options": [
+            "der Stellvertreter / die Stellvertreterin des Stadtoberhaupts.",
+            "ein ehrenamtlicher Richter / eine ehrenamtliche Richterin.",
+            "ein Mitglied eines Gemeinderats.",
+            "eine Person, die Jura studiert hat."
+        ],
+        "correct_answer": "ein ehrenamtlicher Richter / eine ehrenamtliche Richterin."
+    },
+        
+    {
+        "question_number": 151,
+        "question": "Wer baute die Mauer in Berlin?",
+        "options": [
+            "Großbritannien",
+            "die Bundesrepublik Deutschland",
+            "die DDR",
+            "die USA"
+        ],
+        "correct_answer": "die DDR"
+    },
+    {
+        "question_number": 152,
+        "question": "Wann waren die Nationalsozialisten mit Adolf Hitler in Deutschland an der Macht?",
+        "options": [
+            "1918 bis 1923",
+            "1932 bis 1950",
+            "1933 bis 1945",
+            "1945 bis 1989"
+        ],
+        "correct_answer": "1933 bis 1945"
+    },
+    {
+        "question_number": 153,
+        "question": "Was war am 8. Mai 1945?",
+        "options": [
+            "Tod Adolf Hitlers",
+            "Beginn des Berliner Mauerbaus",
+            "Wahl von Konrad Adenauer zum Bundeskanzler",
+            "Ende des Zweiten Weltkriegs in Europa"
+        ],
+        "correct_answer": "Ende des Zweiten Weltkriegs in Europa"
+    },
+    {
+        "question_number": 154,
+        "question": "Wann war der Zweite Weltkrieg zu Ende?",
+        "options": [
+            "1933",
+            "1945",
+            "1949",
+            "1961"
+        ],
+        "correct_answer": "1945"
+    },
+    {
+        "question_number": 155,
+        "question": "Wann waren die Nationalsozialisten in Deutschland an der Macht?",
+        "options": [
+            "1888 bis 1918",
+            "1921 bis 1934",
+            "1933 bis 1945",
+            "1949 bis 1963"
+        ],
+        "correct_answer": "1933 bis 1945"
+    },
+    {
+        "question_number": 156,
+        "question": "In welchem Jahr wurde Hitler Reichskanzler?",
+        "options": [
+            "1923",
+            "1927",
+            "1933",
+            "1936"
+        ],
+        "correct_answer": "1933"
+    },
+    {
+        "question_number": 157,
+        "question": "Die Nationalsozialisten mit Adolf Hitler errichteten 1933 in Deutschland …",
+        "options": [
+            "eine Diktatur.",
+            "einen demokratischen Staat.",
+            "eine Monarchie.",
+            "ein Fürstentum."
+        ],
+        "correct_answer": "eine Diktatur."
+    },
+    {
+        "question_number": 158,
+        "question": "Das „Dritte Reich“ war eine …",
+        "options": [
+            "Diktatur.",
+            "Demokratie.",
+            "Monarchie.",
+            "Räterepublik."
+        ],
+        "correct_answer": "Diktatur."
+    },
+    {
+        "question_number": 159,
+        "question": "Was gab es in Deutschland nicht während der Zeit des Nationalsozialismus?",
+        "options": [
+            "freie Wahlen",
+            "Pressezensur",
+            "willkürliche Verhaftungen",
+            "Verfolgung der Juden"
+        ],
+        "correct_answer": "freie Wahlen"
+    },
+    {
+        "question_number": 160,
+        "question": "Welcher Krieg dauerte von 1939 bis 1945?",
+        "options": [
+            "der Erste Weltkrieg",
+            "der Zweite Weltkrieg",
+            "der Vietnamkrieg",
+            "der Golfkrieg"
+        ],
+        "correct_answer": "der Zweite Weltkrieg"
+    },
+    {
+        "question_number": 161,
+        "question": "Was kennzeichnete den NS-Staat? Eine Politik …",
+        "options": [
+            "des staatlichen Rassismus",
+            "der Meinungsfreiheit",
+            "der allgemeinen Religionsfreiheit",
+            "der Entwicklung der Demokratie"
+        ],
+        "correct_answer": "des staatlichen Rassismus"
+    },
+    {
+        "question_number": 162,
+        "question": "Claus Schenk Graf von Stauffenberg wurde bekannt durch …",
+        "options": [
+            "eine Goldmedaille bei den Olympischen Spielen 1936.",
+            "den Bau des Reichstagsgebäudes.",
+            "den Aufbau der Wehrmacht.",
+            "das Attentat auf Hitler am 20. Juli 1944."
+        ],
+        "correct_answer": "das Attentat auf Hitler am 20. Juli 1944."
+    },
+    {
+        "question_number": 163,
+        "question": "In welchem Jahr zerstörten die Nationalsozialisten Synagogen und jüdische Geschäfte in Deutschland?",
+        "options": [
+            "1925",
+            "1930",
+            "1938",
+            "1945"
+        ],
+        "correct_answer": "1938"
+    },
+    {
+        "question_number": 164,
+        "question": "Was passierte am 9. November 1938 in Deutschland?",
+        "options": [
+            "Mit dem Angriff auf Polen beginnt der Zweite Weltkrieg.",
+            "Die Nationalsozialisten verlieren eine Wahl und lösen den Reichstag auf.",
+            "Jüdische Geschäfte und Synagogen werden durch Nationalsozialisten und ihre Anhänger zerstört.",
+            "Hitler wird Reichspräsident und lässt alle Parteien verbieten."
+        ],
+        "correct_answer": "Jüdische Geschäfte und Synagogen werden durch Nationalsozialisten und ihre Anhänger zerstört."
+    },
+    {
+        "question_number": 165,
+        "question": "Wie hieß der erste Bundeskanzler der Bundesrepublik Deutschland?",
+        "options": [
+            "Konrad Adenauer",
+            "Kurt Georg Kiesinger",
+            "Helmut Schmidt",
+            "Willy Brandt"
+        ],
+        "correct_answer": "Konrad Adenauer"
+    },
+    {
+        "question_number": 166,
+        "question": "Bei welchen Demonstrationen in Deutschland riefen die Menschen „Wir sind das Volk“?",
+        "options": [
+            "bei den Montagsdemonstrationen 1989 in der DDR",
+            "beim Arbeiteraufstand 1953 in der DDR",
+            "bei den Demonstrationen 1968 in der Bundesrepublik Deutschland",
+            "bei den Anti-Atomkraft-Demonstrationen 1985 in der Bundesrepublik Deutschland"
+        ],
+        "correct_answer": "bei den Montagsdemonstrationen 1989 in der DDR"
+    },
+    {
+        "question_number": 167,
+        "question": "Welche Länder wurden nach dem Zweiten Weltkrieg in Deutschland als „Alliierte Besatzungsmächte“ bezeichnet?",
+        "options": [
+            "Sowjetunion, Großbritannien, Polen, Schweden",
+            "Frankreich, Sowjetunion, Italien, Japan",
+            "USA, Sowjetunion, Spanien, Portugal",
+            "USA, Sowjetunion, Großbritannien, Frankreich"
+        ],
+        "correct_answer": "USA, Sowjetunion, Großbritannien, Frankreich"
+    },
+    {
+        "question_number": 168,
+        "question": "Welches Land war keine „Alliierte Besatzungsmacht“ in Deutschland?",
+        "options": [
+            "USA",
+            "Sowjetunion",
+            "Frankreich",
+            "Japan"
+        ],
+        "correct_answer": "Japan"
+    },
+    {
+        "question_number": 169,
+        "question": "Wann wurde die Bundesrepublik Deutschland gegründet?",
+        "options": [
+            "1939",
+            "1945",
+            "1949",
+            "1951"
+        ],
+        "correct_answer": "1949"
+    },
+    {
+        "question_number": 170,
+        "question": "Was gab es während der Zeit des Nationalsozialismus in Deutschland?",
+        "options": [
+            "das Recht zur freien Entfaltung der Persönlichkeit",
+            "Pressefreiheit",
+            "das Verbot von Parteien",
+            "den Schutz der Menschenwürde"
+        ],
+        "correct_answer": "das Verbot von Parteien"
+    },
+    {
+        "question_number": 171,
+        "question": "Soziale Marktwirtschaft bedeutet, die Wirtschaft …",
+        "options": [
+            "steuert sich allein nach Angebot und Nachfrage.",
+            "wird vom Staat geplant und gesteuert, Angebot und Nachfrage werden nicht berücksichtigt.",
+            "richtet sich nach der Nachfrage im Ausland.",
+            "richtet sich nach Angebot und Nachfrage, aber der Staat sorgt für einen sozialen Ausgleich."
+        ],
+        "correct_answer": "richtet sich nach Angebot und Nachfrage, aber der Staat sorgt für einen sozialen Ausgleich."
+    },
+    {
+        "question_number": 172,
+        "question": "In welcher Besatzungszone wurde die DDR gegründet? In der …",
+        "options": [
+            "amerikanischen Besatzungszone.",
+            "französischen Besatzungszone.",
+            "britischen Besatzungszone.",
+            "sowjetischen Besatzungszone."
+        ],
+        "correct_answer": "sowjetischen Besatzungszone."
+    },
+    {
+        "question_number": 173,
+        "question": "Die Bundesrepublik Deutschland ist ein Gründungsmitglied …",
+        "options": [
+            "des Nordatlantikpakts (NATO).",
+            "der Vereinten Nationen (VN).",
+            "der Europäischen Union (EU).",
+            "des Warschauer Pakts."
+        ],
+        "correct_answer": "der Europäischen Union (EU)."
+    },
+    {
+        "question_number": 174,
+        "question": "Wann wurde die DDR gegründet?",
+        "options": [
+            "1947",
+            "1949",
+            "1953",
+            "1956"
+        ],
+        "correct_answer": "1949"
+    },
+    {
+        "question_number": 175,
+        "question": "Wie viele Besatzungszonen gab es in Deutschland nach dem Zweiten Weltkrieg?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correct_answer": "4"
+    },
+    {
+        "question_number": 176,
+        "question": "Wie waren die Besatzungszonen Deutschlands nach 1945 verteilt?",
+        "options": [
+            "1=Großbritannien, 2=Sowjetunion, 3=Frankreich, 4=USA",
+            "1=Sowjetunion, 2=Großbritannien, 3=USA, 4=Frankreich",
+            "1=Großbritannien, 2=Sowjetunion, 3=USA, 4=Frankreich",
+            "1=Großbritannien, 2=USA, 3=Sowjetunion, 4=Frankreich"
+        ],
+        "correct_answer": "1=Großbritannien, 2=Sowjetunion, 3=USA, 4=Frankreich"
+    },
+    {
+        "question_number": 177,
+        "question": "Welche deutsche Stadt wurde nach dem Zweiten Weltkrieg in vier Sektoren aufgeteilt?",
+        "options": [
+            "München",
+            "Berlin",
+            "Dresden",
+            "Frankfurt/Oder"
+        ],
+        "correct_answer": "Berlin"
+    },
+    {
+        "question_number": 178,
+        "question": "Vom Juni 1948 bis zum Mai 1949 wurden die Bürger und Bürgerinnen von West-Berlin durch eine Luftbrücke versorgt. Welcher Umstand war dafür verantwortlich?",
+        "options": [
+            "Für Frankreich war eine Versorgung der West-Berliner Bevölkerung mit dem Flugzeug kostengünstiger.",
+            "Die amerikanischen Soldaten / Soldatinnen hatten beim Landtransport Angst vor Überfällen.",
+            "Für Großbritannien war die Versorgung über die Luftbrücke schneller.",
+            "Die Sowjetunion unterbrach den gesamten Verkehr auf dem Landwege."
+        ],
+        "correct_answer": "Die Sowjetunion unterbrach den gesamten Verkehr auf dem Landwege."
+    },
+    {
+        "question_number": 179,
+        "question": "Wie endete der Zweite Weltkrieg in Europa offiziell?",
+        "options": [
+            "mit dem Tod Adolf Hitlers",
+            "durch die bedingungslose Kapitulation Deutschlands",
+            "mit dem Rückzug der Deutschen aus den besetzten Gebieten",
+            "durch eine Revolution in Deutschland"
+        ],
+        "correct_answer": "durch die bedingungslose Kapitulation Deutschlands"
+    },
+    {
+        "question_number": 180,
+        "question": "Der erste Bundeskanzler der Bundesrepublik Deutschland war …",
+        "options": [
+            "Ludwig Erhard.",
+            "Willy Brandt.",
+            "Konrad Adenauer.",
+            "Gerhard Schröder."
+        ],
+        "correct_answer": "Konrad Adenauer."
+    }
+    
 ]
 
 
